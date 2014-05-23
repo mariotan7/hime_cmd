@@ -21,4 +21,3 @@ echo "                           /_/           \_____|               \      /   
 echo "                                                                \    /          "
 echo "                                                                 \  /           "
 echo "                                                                  \/            "
-ls
